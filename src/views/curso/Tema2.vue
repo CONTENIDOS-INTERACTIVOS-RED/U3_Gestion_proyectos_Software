@@ -184,7 +184,7 @@
           .col-lg-8
             h2.mb-4(data-aos="flip-up") Lecciones sobre la metodología utilizada  
             p.mb-4(data-aos="fade-right") En el PDF Lecciones sobre la metodología utilizada, se analizan experiencias reales para reflexionar sobre la pertinencia de enfoques de gestión aplicados, sus fortalezas, limitaciones y posibles mejoras. Este análisis crítico es fundamental para adaptar y perfeccionar los métodos en futuras iniciativas, alineándolos con las necesidades específicas de cada contexto.
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.pdf')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_2.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto

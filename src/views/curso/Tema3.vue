@@ -104,7 +104,7 @@
           .col-lg-8
             h2.mb-4(data-aos="flip-up") Análisis de los problemas recurrentes en proyectos anteriores 
             p.mb-4(data-aos="fade-right") En el PDF Análisis de los problemas recurrentes en proyectos anteriores, se presentan estrategias para identificar y comprender dificultades persistentes que afectan el rendimiento de los proyectos, utilizando enfoques estructurados y herramientas analíticas. Este ejercicio permite diseñar intervenciones eficaces que aborden las causas raíz y promuevan mejoras sostenibles en futuras iniciativas.
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.pdf')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_3.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
