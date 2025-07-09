@@ -59,7 +59,7 @@
             .col-lg-auto
               img.img-a.img-t(src="@/assets/curso/temas/42.svg")
             .col-lg
-              p.mb-0 n un proyecto de desarrollo e implementación de un sistema de gestión documental para una entidad gubernamental, la evaluación del cumplimiento de objetivos podría revelar que, si bien se entregaron todas las funcionalidades críticas acordadas y se mantuvo el presupuesto dentro de los límites establecidos, se produjo un retraso de dos meses respecto al cronograma original debido a cambios regulatorios imprevistos.
+              p.mb-0 En un proyecto de desarrollo e implementación de un sistema de gestión documental para una entidad gubernamental, la evaluación del cumplimiento de objetivos podría revelar que, si bien se entregaron todas las funcionalidades críticas acordadas y se mantuvo el presupuesto dentro de los límites establecidos, se produjo un retraso de dos meses respecto al cronograma original debido a cambios regulatorios imprevistos.
           .row.align-items-start
             .col-lg-auto
               img.img-a.img-t(src="@/assets/curso/temas/43.svg")

@@ -175,7 +175,8 @@
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
                 p <strong>Anexo. </strong> Lecciones aprendidas del proyecto 
-
+    #t_1_4.titulo-segundo(data-aos="flip-up")
+      h2 #[span 1.4] Documentación técnica final 
     .row.mb-5
       .col-lg-8.mb-3.mb-lg-0
         .bg-color-1.p-4.mb-4(data-aos="fade-left")
