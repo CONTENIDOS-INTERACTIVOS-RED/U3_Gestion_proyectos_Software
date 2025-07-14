@@ -1,1 +1,1 @@
-module.exports = 'CIRED'
+module.exports = 'Evaluación y cierre de proyectos'
