@@ -255,7 +255,7 @@
 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://keepcoding.io/blog/que-es-el-post-mortem-en-software/KeepCoding Bootcamps" target="_blank" rel="noopener noreferrer") Mallón, X. (2024). ¿Qué es el Post Mortem en el software?. 
+              a(href="https://keepcoding.io/blog/que-es-el-post-mortem-en-software/" target="_blank" rel="noopener noreferrer") Mallón, X. (2024). ¿Qué es el Post Mortem en el software?. 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
               a(href="https://www.domestika.org/es/blog/3941-analisis-post-mortem-de-proyectos-que-es-y-como-hacerlo" target="_blank" rel="noopener noreferrer") Martínez L. (2023). Análisis post mortem de proyectos: ¿qué es y cómo hacerlo?.             
