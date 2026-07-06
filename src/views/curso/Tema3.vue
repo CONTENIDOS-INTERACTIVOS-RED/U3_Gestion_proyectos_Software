@@ -302,9 +302,6 @@
 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://creately.com/blog/es/negocios/como-utilizar-las-lecciones-aprendidas-de-manera-eficaz-para-evitar-el-fracaso-del-proyecto/Creately+1FourWeekMBA+1" target="_blank" rel="noopener noreferrer") Creately. (2024). Lecciones aprendidas en la gestión de proyectos: Guía práctica. 
-            p.d-flex.my-4
-              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
               a(href="https://blogs.iadb.org/conocimiento-abierto/es/como-documentar-lecciones-aprendidas" target="_blank" rel="noopener noreferrer") Luna, E. &Rodríguez L. (2015). Cómo documentar lecciones aprendidas. 
 
             p.d-flex.my-4
